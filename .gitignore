@@ -60,7 +60,5 @@ wheels/
 # Token files (sensitive)
 token.txt
 *.token
-*.keras
-*.h5
 *.ckpt*
 token.txt*
